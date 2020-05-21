@@ -1,1 +1,1 @@
-Library Management System is C program which will manage various Library tasks such as adding books,deleting books,etc.
+The project “Library Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books.
